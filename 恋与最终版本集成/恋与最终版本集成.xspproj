@@ -1,0 +1,15 @@
+[SOURCE]
+1\SOURCEFILE=C:/Users/ASUS/Documents/xspworkspace/\x604b\x4e0e\x6700\x7ec8\x7248\x672c\x96c6\x6210/xsp/src/main.lua
+2\SOURCEFILE=C:/Users/ASUS/Documents/xspworkspace/\x604b\x4e0e\x6700\x7ec8\x7248\x672c\x96c6\x6210/xsp/src/tap.lua
+size=3
+3\SOURCEFILE=C:/Users/ASUS/Documents/xspworkspace/\x604b\x4e0e\x6700\x7ec8\x7248\x672c\x96c6\x6210/xsp/src/pl.lua
+
+[UI]
+1\UIFILE=C:/Users/ASUS/Documents/xspworkspace/\x604b\x4e0e\x6700\x7ec8\x7248\x672c\x96c6\x6210/xsp/ui/ui.json
+size=1
+
+[RES]
+size=0
+
+[LIB]
+size=0
